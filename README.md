@@ -1,5 +1,4 @@
-# Galaxy-Redshift-Prediction-using-K-Nearest-Neighbors
-Galaxy Redshift Prediction using K-Nearest Neighbors
+# Galaxy Redshift Prediction using K-Nearest Neighbors
 
 This repository contains an implementation of the K-Nearest Neighbors (KNN) algorithm for galaxy redshift prediction using the provided galaxies_train.csv and galaxies_test.csv datasets.
 
